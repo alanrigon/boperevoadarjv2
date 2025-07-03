@@ -1,9 +1,9 @@
 
 export const firebaseConfig = {
-  apiKey: "SUA_API_KEY",
-  authDomain: "SEU_DOMINIO.firebaseapp.com",
-  projectId: "SEU_PROJECT_ID",
-  storageBucket: "SEU_BUCKET.appspot.com",
-  messagingSenderId: "SEU_ID",
-  appId: "SEU_APP_ID"
+  apiKey: "AIzaSyC1NmXqw17a59ZAVAyKRJ_EYzEHJyMb0Ro",
+  authDomain: "sequestros-bope-revoada-rj.firebaseapp.com",
+  projectId: "sequestros-bope-revoada-rj",
+  storageBucket: "sequestros-bope-revoada-rj.firebasestorage.app",
+  messagingSenderId: "713711634210",
+  appId: "1:713711634210:web:033d43b9d63817cd07077b
 };
